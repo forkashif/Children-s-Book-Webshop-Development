@@ -1,0 +1,6 @@
+{
+  "name": "Starlight Tales | Magical Printed Children's Books",
+  "description": "Enchanting printed children's books crafted with love, personalized dedications, and fulfilled automatically on-demand worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
